@@ -1,0 +1,16 @@
+PODS:
+  - LFLiveKit (2.6)
+
+DEPENDENCIES:
+  - LFLiveKit (from `../../.`)
+
+EXTERNAL SOURCES:
+  LFLiveKit:
+    :path: ../../.
+
+SPEC CHECKSUMS:
+  LFLiveKit: 24336764f8e9f1a15339a0b24f40df5fded51d3e
+
+PODFILE CHECKSUM: f895add4b0add628957decfd009f5e81e2545e6d
+
+COCOAPODS: 1.4.0
